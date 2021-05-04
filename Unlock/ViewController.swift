@@ -15,7 +15,6 @@ class ViewController: UIViewController {
     
     
     @IBOutlet var stateView: UIView!
-    @IBOutlet weak var faceIDLabel: UILabel!
     @IBOutlet weak var loginButton: UIButton!
     
     
